@@ -1,0 +1,73 @@
+body{
+  background-image:
+url("https://en.meming.world/images/en/thumb/a/af/Surprised_Pikachu_3D.jpg/300px-Surprised_Pikachu_3D.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1{
+  font-family: 'Bungee Inline', cursive;
+}
+
+h1 {
+  border-bottom: 6px solid white;
+ 
+   }
+  
+
+li{
+display: inline; 
+margin: ?px; 
+}
+
+ul{
+  margin: 0px; 
+  padding: 0px; 
+  border: solid rgba(255,255,255,0.5);
+  text-align: center; 
+    border-width: 2.5px;
+}
+
+
+
+
+a {
+  color: white;
+  visited:
+}
+
+
+#Admissions {
+  color:black;
+}
+
+.para {
+  color: 
+}
+
+.para:hover {
+  background-color: rgba(255,255,255,0.5);
+}
+
+.headers:hover {
+  background-color: rgba(255,255,255,0.5)
+}
+h3{
+  display: inline; 
+
+  }
+}
+div{
+  display: block; 
+}
+
+
+
+table, th, td {
+  border: 1px solid black;  
+}
+
+iframe {
+  padding-bottom: 50px;
+}
